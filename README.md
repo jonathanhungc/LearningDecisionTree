@@ -1,1 +1,1 @@
-Code for a Learning Decision Tree that creates a decision tree using input data. In order to do so, it evaluates which variables seem to be more important than others, and decides which branches and variables are included in the decision tree.
+Implements a decision tree learning algorithm. Takes input examples from a CSV file, processes them to determine the most important attributes, and constructs a decision tree based on these attributes. It uses concepts from information gain and entropy to determine attribute importance and classification. 
